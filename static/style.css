@@ -1,0 +1,42 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.calculator {
+  background-color: slategray;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+h1 {
+  color: black; 
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0;
+}
+
+input, button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+input {
+  width: 80%;
+}
+
+button {
+  width: 19%;
+  
+  
+}
